@@ -1,7 +1,5 @@
 {
   "mappings": [
-    "/:/",
-    "/content/wknd-danske/metadata.json:/metadata.json",
-    "/content/wknd-danske/redirects.json:/redirects.json"
+    "/:/"
   ]
 }
