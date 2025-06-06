@@ -1,7 +1,7 @@
 # Edge Delivery Services - WKND Demo
 Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edge Delivery Services. Highlights include:
 
-- Experimentation capabilities 
+- Experimentation capabilities    
 - Conversion tracking
 - Slack Bot integration for monitoring Lighthouse score and conversions 
 - Document based content authoring
